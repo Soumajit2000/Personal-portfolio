@@ -130,20 +130,20 @@ h3 {
 	width: 90px;
 	padding: 0 1em;
 }
-/* Projects section */
-.Projects .container {
+/* portfolio section */
+.portfolio.container {
 	background-color: #f4f5f7;
 }
-.Projects strong {
+.portfolio strong {
 	display: block;
 	margin: 2em 0;
 }
-.Projects li {
+.portfolio li {
 	list-style-type: none;
 	line-height: 1.9em;
 	color: #343a40;
 }
-.Projects a {
+.portfolio a {
 	color: #03a9f4;
 }
 footer {
